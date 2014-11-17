@@ -1,0 +1,11 @@
+{
+  "data_uid": "393549f5b81e2400", 
+  "data_name": "cTuning datasets (minimal)", 
+  "dict": {
+    "url": "https://github.com/gfursin/cm-ctuning-code-source-dataset-min", 
+    "shared": "git", 
+    "sync": "yes"
+  }, 
+  "data_alias": "ctuning-datasets-min", 
+  "data_uoa": "ctuning-datasets-min"
+}
