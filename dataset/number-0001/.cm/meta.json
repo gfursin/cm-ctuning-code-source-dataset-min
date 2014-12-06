@@ -27,9 +27,9 @@
   "cm_updated": [
     {
       "cm_iso_datetime": "2012-10-22T18:05:29.189000", 
+      "cm_person_uoa": "0728a400aa1c86fe", 
       "cm_user_uoa": "0728a400aa1c86fe", 
-      "cm_module_uid": "8a7141c59cd335f5", 
-      "cm_person_uoa": "0728a400aa1c86fe"
+      "cm_module_uid": "8a7141c59cd335f5"
     }
   ], 
   "cm_file_upload_name": "", 

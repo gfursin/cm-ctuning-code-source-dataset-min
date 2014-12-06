@@ -1,26 +1,28 @@
 {
   "cm_classes_uoa": [
     "62a455f8c8042f90", 
-    "2ac4c5bb71ecaeec", 
+    "c1e2a3e075864c4e", 
+    "76bf7c014cab72d2", 
+    "2e9c54f0abbc90a4", 
     "1a972e86f4b72b84"
   ], 
   "dataset_files": [
-    "data.txt"
+    "data.tiff"
   ], 
-  "powered_by": {
-    "version": "1.0.1977.beta", 
-    "name": "Collective Mind Engine"
-  }, 
-  "cm_description": "cDatasets/MiDataSets for cBench, see http://cTuning.org", 
-  "cm_display_as_alias": "cdataset qsort 0001", 
   "cm_access_control": {
     "read_groups": "all", 
     "comments_groups": "admin", 
     "write_groups": "owner"
   }, 
+  "cm_description": "cDatasets/MiDataSets for cBench, see http://cTuning.org", 
+  "cm_display_as_alias": "image tiff 0001 bw", 
+  "powered_by": {
+    "version": "1.0.1977.beta", 
+    "name": "Collective Mind Engine"
+  }, 
   "cm_updated": [
     {
-      "cm_iso_datetime": "2012-04-12T11:54:15.634000", 
+      "cm_iso_datetime": "2012-04-12T11:46:36.400000", 
       "cm_module_uid": "8a7141c59cd335f5", 
       "cm_user_uoa": "0728a400aa1c86fe"
     }
